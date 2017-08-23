@@ -14,6 +14,12 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    opacity: .7;
+}
+
+.box:hover {
+    border-radius: 8pt;
+    opacity: .9;
 }
 
 .one {
